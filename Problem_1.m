@@ -9,4 +9,4 @@ for i = 1:999
         numbers = numbers + i;
     end
 end
-numbers
+numbers 
